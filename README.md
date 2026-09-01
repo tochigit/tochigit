@@ -15,6 +15,7 @@ I'm a passionate web developer and tech enthusiast based in Lagos, Nigeria, curr
 ### 🚀 Featured Projects
 * **[Pre-Order-with-Oma](https://preorder-withoma-blush.vercel.app/)** — A custom e-commerce pre-order platform featuring backend product uploads, cart functionality, and direct-to-WhatsApp order routing.
 * **[Mouvelle](https://mouvelle.vercel.app/)** — A full-scale e-commerce web application with integrated secure environment configuration and payment processing architecture.
+* **Occasio (Collaborative Project)** — A feature-rich event planning application built alongside a team, featuring specialized tools to differentiate the product in the market.
 * **Project Yunis (In Development)** — Designing a universal relationship platform focused on human connection, featuring psychological principles and relationship-focused AI integration.
 
 ---
