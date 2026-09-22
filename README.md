@@ -69,4 +69,4 @@ I'm open to meaningful conversations about products, frontend engineering, AI, c
 
 ---
 
-<p align="center"><i>Always learning. Always building. Occasionally building because I'm bored. 🚀</i></p>
+<p align="center"><i>Always learning. Always building 🚀</i></p>
