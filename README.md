@@ -4,6 +4,8 @@
 
 <p align="center"><strong>Frontend developer · Founder of Yunis · Biostatistics at UNILAG</strong></p>
 
+<p align="center"><a href="https://tochilink.vercel.app"><strong>Portfolio ↗</strong></a></p>
+
 <p align="center">
   <a href="mailto:tochilink10@gmail.com"><img src="assets/contact-email.svg" width="150" height="46" alt="Email Tochi" /></a>
   <a href="https://www.linkedin.com/in/tochi-okere"><img src="assets/contact-linkedin.svg" width="150" height="46" alt="Connect with Tochi on LinkedIn" /></a>
