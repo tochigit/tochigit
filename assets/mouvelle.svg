@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="title"><title id="title">Mouvelle storefront artwork</title>
+<rect width="600" height="180" rx="12" fill="#25202d"/>
+<path d="M0 145Q120 30 260 124T600 55" stroke="#55445f" fill="none" stroke-width="2"/>
+<path d="M0 167Q120 52 260 146T600 77" stroke="#55445f" fill="none"/>
+<path d="M245 51h110l14 91H231z" fill="#3e334b" stroke="#d3b9e8" stroke-width="2"/>
+<path d="M274 57V42a26 26 0 0 1 52 0v15" fill="none" stroke="#d3b9e8" stroke-width="3"/>
+<path d="M279 113V82l21 21 21-21v31" stroke="#eee0fa" stroke-width="4" fill="none"/>
+</svg>

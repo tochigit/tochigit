@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="title"><title id="title">Pre-Order with Oma shopping artwork</title>
+<rect width="600" height="180" rx="12" fill="#30271e"/>
+<path d="M52 0v180M548 0v180" stroke="#4b3d2d"/>
+<rect x="255" y="43" width="114" height="110" rx="12" fill="#58452f" stroke="#edce98" stroke-width="2" transform="rotate(9 312 98)"/>
+<rect x="231" y="32" width="114" height="110" rx="12" fill="#3d3124" stroke="#f7dcac" stroke-width="2" transform="rotate(-9 288 87)"/>
+<path d="M263 62v-8a25 25 0 0 1 50 0v8" fill="none" stroke="#f7dcac" stroke-width="3"/>
+<path d="M264 99l16 16 31-34" fill="none" stroke="#f7dcac" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
