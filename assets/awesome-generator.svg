@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="title"><title id="title">Awesome Prompt Generator prompt window artwork</title>
+<rect width="600" height="180" rx="12" fill="#211e30"/>
+<rect x="186" y="28" width="228" height="124" rx="15" fill="#2d2842" stroke="#8f79b6" stroke-width="2"/>
+<path d="M186 61h228" stroke="#63517f"/>
+<circle cx="204" cy="45" r="3" fill="#bba6de"/><circle cx="217" cy="45" r="3" fill="#bba6de"/>
+<path d="M211 86l11 10-11 10m23 0h35" stroke="#e1d4f6" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M350 74l7 18 18 7-18 7-7 18-7-18-18-7 18-7z" fill="#cbb4f1"/>
+</svg>
