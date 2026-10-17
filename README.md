@@ -74,6 +74,17 @@ I also own **[Playbook Hub](https://selar.com/m/playbook-hub)**, a digital store
 **Integrations:** APIs · Groq<br>
 **Currently learning:** Node.js · Python · Go
 
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tochigit&show_icons=true&bg_color=101211&title_color=d0f3b6&icon_color=d0f3b6&text_color=f2f4ef&hide_border=true" width="420" alt="Tochi's GitHub stats, including stars, commits, pull requests, issues, contributions, and rank" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tochigit&layout=compact&bg_color=101211&title_color=d0f3b6&icon_color=d0f3b6&text_color=f2f4ef&hide_border=true" width="300" alt="Tochi's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tochigit&background=101211&ring=d0f3b6&fire=d0f3b6&currStreakLabel=d0f3b6&currStreakNum=f2f4ef&sideNums=f2f4ef&sideLabels=d0f3b6&dates=a9b1aa&stroke=303730&hide_border=true&disable_animations=true&timezone=Africa%2FLagos" width="495" alt="Tochi's total contributions, current streak, and longest streak" />
+</p>
+
 ## Let's connect
 
 For frontend opportunities, freelance work, or collaboration, email **[tochilink10@gmail.com](mailto:tochilink10@gmail.com)**.
