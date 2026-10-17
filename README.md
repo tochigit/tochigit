@@ -20,7 +20,7 @@ I'm **Tochi Okere**, a frontend developer based in Lagos, Nigeria, and a **Biost
 
 I'm the founder of **[Yunis](https://github.com/tochigit/Yunis)** and the owner of **[Playbook Hub](https://selar.com/m/playbook-hub)**. Alongside client work and personal projects, I'm learning Node.js, Python, and Go to deepen my backend skills. Cybersecurity is a longer-term interest.
 
-> I build seriously, experiment often, and sometimes ship a project just because I was bored — that's how **Awesome Generator** happened. 🙂
+> I build seriously, experiment often, and sometimes ship a project just because I was bored — that's how **Awesome Generator** happened.
 
 ## What I'm focused on
 
