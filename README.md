@@ -14,19 +14,17 @@
 
 I'm **Tochi Okere**, a frontend developer based in Lagos, Nigeria, and a **Biostatistics student at the University of Lagos**. I work mainly with TypeScript, React, and Next.js, turning ideas into interfaces people can use.
 
-I'm the founder of **[Yunis](https://github.com/tochigit/Yunis)** and the owner of **[Playbook Hub](https://selar.com/m/playbook-hub)**. Alongside client work and personal projects, I'm learning Node.js, Python, and Go to deepen my backend skills. Cybersecurity is a longer-term interest.
+I'm the founder of **Yunis** and the owner of **[Playbook Hub](https://selar.com/m/playbook-hub)**. Alongside client work and personal projects, I'm learning Node.js, Python, and Go to deepen my backend skills. Cybersecurity is a longer-term interest.
 
 > I build seriously, experiment often, and sometimes ship a project just because I was bored — that's how **Awesome Generator** happened.
 
 ## Selected work
 
-<a href="https://github.com/tochigit/Yunis"><img src="assets/yunis.svg" width="100%" alt="Yunis — Stay connected to what matters." /></a>
+<img src="assets/yunis.svg" width="100%" alt="Yunis — Stay connected to what matters." />
 
-**Founder & builder · In development**
+**Founder & builder · Private project · In development**
 
 A platform focused on nurturing existing relationships, growing from my earlier Eternal Bond prototype. The foundation is implemented; the broader product is in development.
-
-[Explore Yunis](https://github.com/tochigit/Yunis) · [Read the vision](https://github.com/tochigit/Yunis/blob/main/.docs/prd/vision.md)
 
 <table>
   <tr>
